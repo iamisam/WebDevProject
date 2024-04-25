@@ -1,0 +1,35 @@
+span{
+    font-size: 60px;
+    font-weight: 100; 
+    line-height: 0.6;
+}
+
+.sections{
+    display: flex;
+    margin-top: 0.5%;
+    margin-bottom: 10%;
+}
+
+.image{
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    margin-left: 10em;
+}
+
+.teamContainer {
+    padding-top: 20px;
+    display: flex;
+    margin-left: 1%;
+    margin-right: 2%;
+  }
+  
+  .cardContainer {
+    margin-bottom: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: fit-content;
+    color: white;
+  }

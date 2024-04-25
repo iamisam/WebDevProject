@@ -1,0 +1,81 @@
+h1{
+    color: #e4e4ff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+.underline{
+    border-bottom: '2px solid goldenrod'; 
+    width: '20%'; 
+    margin: 'auto';
+    color: gold;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+p{
+    font-size: 0.8em;
+    color:blanchedalmond;
+}
+h2{
+    font-size: 22px;
+    color: whitesmoke;
+}
+hr{
+    width: 800px;
+    margin: auto;
+}
+h4{
+    color: #e4e4ff;
+}
+
+.regbutton{
+    background-color: gold;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 50px;
+    box-shadow: 1px 3px 3px white;
+}
+
+.regbutton:hover{
+    width: 50.5%;
+    height: 50.5%;
+
+}
+
+.eventscontainer{
+    position: absolute;
+    top: 16%;
+    left: 20%;
+    height: max-content;
+    width: 1000px;
+    background-color: #17294c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(151, 137, 218, 0.568);
+}
+
+.eventcolumn{
+    margin-left: 5%;
+}
+
+.event{
+    display: flex;
+}
+
+.mid{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+td{
+    width: 300px;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
